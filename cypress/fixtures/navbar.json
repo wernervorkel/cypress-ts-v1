@@ -1,0 +1,46 @@
+{
+    "_comment": "This file contains sample navigation bar test data for the Judge.me Reviews page. It is not a complete list and is intended for demonstration purposes only.",
+    "navLinks": [
+        "Apparel & Accessories", 
+        "Animals & Pet Supplies", 
+        "Health & Beauty", 
+        "Home & Garden", 
+        "Electronics", 
+        "Furniture"],
+    "dropdownOptions": {
+      "Apparel & Accessories": [
+        "Clothing", 
+        "Clothing Accessories", 
+        "Handbags, Wallets & Cases", 
+        "Handbag & Wallet Accessories", 
+        "Costumes & Accessories", 
+        "Jewelry", 
+        "Shoes", 
+        "Shoe Accessories"
+    ]
+    },
+    "subOptions": {
+        "Clothing": [
+            "Shirts & Tops", 
+            "Shorts", 
+            "Skorts", 
+            "Wedding & Bridal Party Dresses", 
+            "One Pieces"
+        ]
+    },
+    "navRedirectionUrls": {
+      "Apparel & Accessories": "/categories/apparel-accessories",
+      "Animals & Pet Supplies": "/categories/animals-pet-supplies",
+      "Health & Beauty": "/categories/health-beauty",
+      "Home & Garden": "/categories/home-garden",
+      "Electronics": "/categories/electronics",
+      "Furniture": "/categories/furniture"
+    },
+    "subRedirectionUrls": {
+        "Shirts & Tops": "/search?q=shirts",
+        "Shorts": "/search?q=shorts",
+        "Skorts": "/search?q=skorts",
+        "Wedding & Bridal Party Dresses": "/search?q=wedding",
+        "One Pieces": "/search?q=one-pieces"
+    }
+  }
