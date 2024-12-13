@@ -42,8 +42,12 @@ cypress/
 └── support
     └── step_definitions
 ```
+
+
 ### Running Tests
+
 1. **Running Cypress in Interactive Mode:
+
 ```bash
 npx cypress open
 ```
@@ -55,4 +59,3 @@ Running Cypress in Headless Mode:
 npx cypress run
 ```
 Use this command for running tests in headless mode (useful for CI/CD pipelines).
- 
