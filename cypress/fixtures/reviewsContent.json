@@ -1,0 +1,23 @@
+{
+    "search title": "Discover trusted products",
+    "search description": "Read verified reviews from 466,105 stores and make informed buying decisions.",
+    "categories heading": "Explore millions of products with reviews by category",
+    "categories cards": [
+        "Apparel & Accessories", 
+        "Animals & Pet Supplies", 
+        "Health & Beauty", 
+        "Home & Garden", 
+        "Furniture"
+    ],
+    "collections section heading": "Popular collections with glowing customer reviews",
+    "collection card": [
+        "Custom necklace", 
+        "Handbags", 
+        "Personalised canvas", 
+        "Fitness", 
+        "Gift for her", 
+        "Personalised bracelet"
+    ],
+    "home reviews section heading": "Product reviews other found helpful",
+    "product review cards": []
+}

@@ -1,0 +1,17 @@
+{
+      "lambdatest_auth": {
+            "username": "",
+            "access_key": ""
+      },
+      "browsers": [{
+            "browser": "Chrome",
+            "versions": ["131.0"],
+            "platform": "Windows 10"
+      }],
+      "run_settings": {
+            "build_name": "cypress-test",
+            "parallels": 1,
+            "specs": "**/*.feature",
+            "reporter_config_file": ""     
+      }
+    }
